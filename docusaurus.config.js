@@ -12,7 +12,8 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/logo.png",
+  favicon:
+    "https://res.cloudinary.com/ddsypxjol/image/upload/v1660923085/Learn-NextJS/Logo_hfhwok.png",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
