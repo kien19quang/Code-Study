@@ -60,7 +60,7 @@ const config = {
         title: "Code Study",
         logo: {
           alt: "Code Study",
-          src: "img/logo.png",
+          src: "https://res.cloudinary.com/ddsypxjol/image/upload/v1660923085/Learn-NextJS/Logo_hfhwok.png",
         },
         items: [
           {
